@@ -31,10 +31,10 @@ function Hero() {
                     <span className="section-label">TECHNOLOGIES</span>
                     <div className="technology-list">
                         <span>C#</span>
-                        <span>.NET Core</span>
+                        <span>.NET CORE</span>
                         <span>TYPESCRIPT</span>
                         <span>REACT.JS</span>
-                        <span>.NET Framework</span>
+                        <span>.NET FRAMEWORK</span>
                         <span>MSSQL</span>
                     </div>
                 </div>
