@@ -1,6 +1,4 @@
 .footer {
-    display: flex;
-    align-items: center;
     width: 100%;
     padding: 100px 32px 32px;
     box-sizing: border-box;
@@ -16,9 +14,8 @@
     padding: 35px 0 20px;
     border-top: 1px solid #333;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.5fr 0.5fr;
     gap: 80px;
-    justify-content: space-between;
 }
 
 .footer-title span {
