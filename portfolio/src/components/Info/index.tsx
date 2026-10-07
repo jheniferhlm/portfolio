@@ -25,7 +25,7 @@ function Info() {
                             Bosch Brasil
                         </p>
                         <span className="info-date">
-                            10/2026..ongoing
+                            10/2026 — ongoing
                         </span>
                     </div>
                     <div className="info-item">
@@ -36,7 +36,7 @@ function Info() {
                             Bosch Brasil
                         </p>
                         <span className="info-date">
-                            08/2026..10/2026
+                            08/2026 — 10/2026
                         </span>
                     </div>
                     <div className="info-item">
@@ -47,7 +47,7 @@ function Info() {
                             Bosch Brasil
                         </p>
                         <span className="info-date">
-                            02/2025..08/2025
+                            02/2025 — 08/2025
                         </span>
                     </div>
                 </div>
@@ -64,7 +64,7 @@ function Info() {
                             Bachelor's degree in Software Engineering
                         </p>
                         <span className="info-date">
-                            2026..ongoing
+                            2026 — ongoing
                         </span>
                     </div>
                     <div className="info-item">
@@ -75,7 +75,7 @@ function Info() {
                             Technologist's degree in Systems Analysis and Development
                         </p>
                         <span className="info-date">
-                            2024..2026
+                            2024 — 2026
                         </span>
                     </div>
                     <div className="info-item">
@@ -86,7 +86,7 @@ function Info() {
                             Technician in Systems Development
                         </p>
                         <span className="info-date">    
-                            2024..2026
+                            2024 — 2026
                         </span>
                     </div>
                 </div>
