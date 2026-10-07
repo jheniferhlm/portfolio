@@ -2,7 +2,7 @@ import "./index.css";
 
 function Hero() {
     return (
-        <main className="hero">
+        <main id ="home" className="hero">
             <header className="hero-header">
                 <a href="mailto:halmajhenifer@gmail.com" className="email">
                     HALMAJHENIFER@GMAIL.COM

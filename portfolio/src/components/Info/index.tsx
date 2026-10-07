@@ -4,7 +4,7 @@ function Info() {
     return (
         <main className="info">
             <header className="info-header">
-                <a href="/" className="info-back">
+                <a href="#home" className="info-back">
                     ⤶ BACK
                 </a>
                 <span className="info-title">
