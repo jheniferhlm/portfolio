@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Info from './components/Info'
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Hero />
       <Info />
+      <Footer />
     </>
   )
 }
