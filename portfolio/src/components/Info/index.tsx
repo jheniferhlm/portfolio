@@ -19,7 +19,7 @@ function Info() {
                 <div className="info-column experience-column">
                     <div className="info-item">
                         <h3>
-                            FULL-STACK SOFTWARE DEVELOPER
+                            JR SOFTWARE DEVELOPER
                         </h3>
                         <p className="info-role">
                             Bosch Brasil
@@ -47,7 +47,7 @@ function Info() {
                             Bosch Brasil
                         </p>
                         <span className="info-date">
-                            02/2025 — 08/2025
+                            02/2025 — 08/2026
                         </span>
                     </div>
                 </div>
@@ -80,13 +80,13 @@ function Info() {
                     </div>
                     <div className="info-item">
                         <h3>
-                            SENAI PR + Bosch Brasil
+                            SENAI PR + ENGINEERING TECHNICAL SCHOOL
                         </h3>
                         <p className="info-role">
                             Technician in Systems Development
                         </p>
                         <span className="info-date">    
-                            2024 — 2026
+                            2025 — 2026
                         </span>
                     </div>
                 </div>
